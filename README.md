@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 Run the Application
 
-python app.py
+python blenderbot_chat.py
 
 
 Access the Chatbot
