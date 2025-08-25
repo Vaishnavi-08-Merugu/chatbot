@@ -1,0 +1,10 @@
+[project]
+name = "blenderbot-chatbot"
+version = "0.1.0"
+description = "Chatbot built with Blenderbot"
+authors = [{ name = "Sai Deepthi Molugari" }]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+transformers = "*"
+torch = "*"
