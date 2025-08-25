@@ -7,7 +7,7 @@ This project is a chatbot built using Blenderbot. Follow the steps below to run 
 
 1. #Clone the Repository
    
-   git clone 
+   git clone https://github.com/Vaishnavi-08-Merugu/chatbot.git
 
 2. Create Virtual Environment (Optional but Recommended)
 
